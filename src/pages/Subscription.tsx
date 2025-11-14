@@ -7,7 +7,7 @@ const pricingPlans = [
   {
     planId: "daily",
     name: "Daily Pass",
-    price: "₹249",
+    price: "₹50",
     period: "day",
     description: "Perfect for quick access",
     features: [
