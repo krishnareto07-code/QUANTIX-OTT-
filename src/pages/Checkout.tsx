@@ -9,7 +9,7 @@ import { CreditCard, Lock, Smartphone, Wallet } from "lucide-react";
 import PaymentSuccessModal from "@/components/PaymentSuccessModal";
 
 const planDetails: Record<string, { name: string; price: string; period: string }> = {
-  daily: { name: "Daily Pass", price: "₹249", period: "day" },
+  daily: { name: "Daily Pass", price: "₹50", period: "day" },
   basic: { name: "Basic Plan", price: "₹799", period: "month" },
   standard: { name: "Standard Plan", price: "₹1199", period: "month" },
   premium: { name: "Premium Plan", price: "₹1599", period: "month" },
